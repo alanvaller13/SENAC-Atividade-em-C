@@ -1,0 +1,13 @@
+Instruções
+Desenvolva um programa em C que permita ao usuário realizar diversas operações com um array de números inteiros. O programa deve apresentar um menu com as seguintes opções:
+
+1- Cadastrar 10 números no array
+2- Mostrar os valores do array
+3- Limpar o array (setar todos os valores para 0)
+4- Mover os números do array para a direita
+5- Mover os números do array para a esquerda
+6- Inverter a ordem dos números no array
+7- Mostrar o valor de uma posição específica do array
+8- Sair do programa
+
+O programa deve ficar rodando até que o usuário escolha a opção de sair. Ao final de cada operação, o programa deve exibir uma mensagem de confirmação e apresentar novamente o menu para que o usuário possa escolher outra opção. Cada operação deve ser realizada em um função diferente
